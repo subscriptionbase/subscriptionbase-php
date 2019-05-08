@@ -31,7 +31,7 @@ If you do not wish to use Composer, you can download the [latest release](https:
 
 ## Documentation
 
-- Please see our official [api-reference](https://subscriptionbase.io/api-reference).
+- Please see our official [api-reference](https://subscriptionbase.github.io/api-reference/).
 
 ## Tests
 
